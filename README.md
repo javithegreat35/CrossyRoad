@@ -1,3 +1,3 @@
 # CrossyRoad
 
-File is compressed. Zip and extract. 
+File is compressed. Zip and extract to run. 
